@@ -53,7 +53,7 @@
 
 .parrafoRojo{
 	background-color: #ffaaaa;
-	font-family: Courier new;
+	font-family: "Courier new";
 	font-size: 12px;
 
 }
@@ -78,7 +78,7 @@
 
 .parrafoBlanco{
 	background-color: #ffffff;
-	font-family: Courier new;
+	font-family: "Courier new";
 	font-size: 11px;
 
 }
